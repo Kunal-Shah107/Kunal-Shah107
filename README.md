@@ -17,7 +17,7 @@
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@therawknightt)
 
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Kunal-Shah107/github-readme-stats)
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Shah107&theme=dracula)
 
