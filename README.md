@@ -21,8 +21,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Shah107&theme=dracula)
 
-![](https://api.githubtrends.io/user/svg/Kunal-Shah107/langs?time_range=one_year&include_private=True&theme=classic)
-
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0" alt="Recent Article 0"> 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1" alt="Recent Article 1">
