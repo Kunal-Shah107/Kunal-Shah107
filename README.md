@@ -19,3 +19,4 @@
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://api.githubtrends.io/user/svg/Kunal-Shah107/langs?time_range=one_year&include_private=True&theme=classic)
