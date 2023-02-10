@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kunal-Shah107/Kunal-Shah107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,10 +7,6 @@
 [1]: [Twitter](https://twitter.com/TheRawKnightt)
 
 ### Hi there. I'm Kunal 👋
-
-<!--
-**Kunal-Shah107/Kunal-Shah107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 - :zap: I love Cloud Technology, DevOps, Infrastructure, Networking, Programming and books
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
