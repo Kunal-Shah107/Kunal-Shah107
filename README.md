@@ -14,9 +14,9 @@
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/kunal-shah07)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/TheRawKnightt)
-- 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@therawknightt)
-- Portfolio : [acloudguy.in](https://acloudguy.in/)
+
+- 📫 Learn more about me on: [acloudguy.in](https://acloudguy.in/)
 
 ## Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0" alt="Recent Article 0"> 
