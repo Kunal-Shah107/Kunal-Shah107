@@ -23,6 +23,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/4" alt="Recent Article 4">
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
 
