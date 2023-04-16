@@ -13,7 +13,7 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://dev.to/acloudguy)
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/kunal-shah07)
-  - [![alt text][1.2]][1][Twitter] (https://twitter.com/TheRawKnightt)
+  - [![alt text][1.2]][1][Twitter](https://twitter.com/TheRawKnightt)
   - :bulb: [Medium](https://medium.com/@therawknightt)
 
 - 📫 Learn more about me on: [acloudguy.in](https://acloudguy.in/)
