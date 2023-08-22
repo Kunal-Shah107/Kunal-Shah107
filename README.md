@@ -14,17 +14,17 @@
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/kunal-shah07)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/TheRawKnightt)
-  - :bulb: [Medium](https://medium.com/@therawknightt)
+  - :bulb: [Medium](https://medium.com/@acloudguydotin)
 
 - 📫 Learn more about me on: [acloudguy.in](https://acloudguy.in/)
 
 ## Check out my latest articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/2" alt="Recent Article 2">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/4" alt="Recent Article 4">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/5" alt="Recent Article 5">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/4" alt="Recent Article 4">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@therawknightt/5" alt="Recent Article 5">
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
 
