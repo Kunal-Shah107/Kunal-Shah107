@@ -11,6 +11,16 @@
 <p>
   <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+Cloud+Solutions+Architect,;DevOps+practitioner,+acloudguy;Lets+Build+on+Cloud+Technology,;I+keep+sharing+and+learning.;" /></a>
 </p>
+<!--
+
+![](https://komarev.com/ghpvc/?username=Kunal-Shah107)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Shah107&theme=chartreuse-dark" alt="my commit status" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Shah107&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+-->
 
 - :zap: I love Cloud Technology, DevOps, Infrastructure, Networking, Programming and books
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
