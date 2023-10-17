@@ -82,4 +82,4 @@
 ![](https://img.shields.io/github/languages/top/ik-workshop/workshop-blueprint?color=green&logo=markdown&logoColor=blue)
  </p> 
 
- 🙏 Thank you for visiting my profile.
+ 🙏 Thank you for visiting my profile 🙏 
