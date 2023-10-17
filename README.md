@@ -14,7 +14,7 @@
 
 - :zap: I love Cloud Technology, DevOps, Kubernetes, Infrastructure, Networking, Programming and books
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://dev.to/acloudguy)
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@acloudguydotin)
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/kunal-shah07)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/TheRawKnightt)
