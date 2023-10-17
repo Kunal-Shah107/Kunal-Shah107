@@ -87,8 +87,4 @@
 ![](https://img.shields.io/github/languages/top/ik-workshop/workshop-blueprint?color=green&logo=markdown&logoColor=blue)
  </p> 
 
- 🙏 Thank you for visiting my profile. 
- 
-#[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-#Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
-
-#![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Shah107&theme=dracula)
+ 🙏 Thank you for visiting my profile.
