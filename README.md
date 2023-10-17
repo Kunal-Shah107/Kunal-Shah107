@@ -11,7 +11,6 @@
 <p>
   <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+DevSecOps,;I'm+love+learning+about+them.;" /></a>
 </p>
-<!--
 
 - :zap: I love Cloud Technology, DevOps, Infrastructure, Networking, Programming and books
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
