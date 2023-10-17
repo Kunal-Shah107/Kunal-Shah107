@@ -8,6 +8,8 @@
 
 ## Hi there. I'm Kunal 👋
 
+<img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acloudguy.gif" width="270"/>
+
 <p>
   <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+Cloud+Solutions+Architect,;DevOps+practitioner,+acloudguy;Lets+Build+on+Cloud+Technology,;I+keep+sharing+and+learning.;" /></a>
 </p>
