@@ -9,7 +9,7 @@
 ## Hi there. I'm Kunal 👋
 
 <p>
-  <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cloud+/+DevOps+Engineer,;I'm+interested+in+DevSecOps,;I'm+love+learning+about+them.;" /></a>
+  <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+AWS+Cloud+Solutions+Architect/+DevOps+practitioner,;I+can+help+you+in+Cloud+Technology,;I+keep+sharing+learning+about+it.;" /></a>
 </p>
 
 - :zap: I love Cloud Technology, DevOps, Infrastructure, Networking, Programming and books
