@@ -78,7 +78,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Shah107&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Shah107&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
   
-[ <p align="left"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcmakkaya)](https://github.com/cmakkaya) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=Kunal-Shah107&label=Profile%20views&color=129e00&style=plastic" alt="cumhur" /> 
+[ <p align="left"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKunal-Shah107)](https://github.com/Kunal-Shah107) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=Kunal-Shah107&label=Profile%20views&color=129e00&style=plastic" alt="cumhur" /> 
 ![](https://img.shields.io/github/commit-activity/m/ik-workshop/workshop-blueprint)
 ![](https://img.shields.io/github/last-commit/ik-workshop/workshop-blueprint)
 [![](https://img.shields.io/github/license/ivankatliarchuk/.github)](https://github.com/ivankatliarchuk/.github/LICENCE)
@@ -86,7 +86,9 @@
 [![](https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint)](https://github.com/ik-workshop/workshop-blueprint)
 ![](https://img.shields.io/github/languages/top/ik-workshop/workshop-blueprint?color=green&logo=markdown&logoColor=blue)
  </p> 
- 
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Shah107&theme=dracula)
+ 🙏 Thank you for visiting my profile. 
+ 
+#[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-#Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
+
+#![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Shah107&theme=dracula)
