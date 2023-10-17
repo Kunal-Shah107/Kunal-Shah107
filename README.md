@@ -14,7 +14,8 @@
   <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+Cloud+Solutions+Architect,;DevOps+practitioner,+acloudguy;Lets+Build+on+Cloud+Technology,;I+keep+sharing+and+learning.;" /></a>
 </p>
 
-- :zap: I love Cloud Technology, DevOps, Kubernetes, Infrastructure, Networking, Programming and books
+- :zap: I love Cloud Technology, DevOps, Kubernetes,
+-       Infrastructure, Networking, Security, Programming and books.
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@acloudguydotin)
 - Connect with me on:
