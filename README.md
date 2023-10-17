@@ -66,6 +66,11 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/4" alt="Recent Article 4">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/5" alt="Recent Article 5">
 
+## <p>
+<p align="center">
+<img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOps-CI-CD.gif" width="300"/>
+</p>
+
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Kunal-Shah107&count_private=true&show_icons=true&theme=dracula&hide_rank=false)]
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Shah107&theme=dracula)
