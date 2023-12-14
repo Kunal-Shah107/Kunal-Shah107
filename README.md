@@ -61,7 +61,7 @@
 </p>
 
 ## Check out my latest articles
-<a target="_blank" href="https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c"><img src="https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c" alt="Recent Article 1"> 
+[AWS CloudFront for High Availability](https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c)
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3" alt="Recent Article 3">
