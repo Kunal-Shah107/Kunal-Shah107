@@ -6,8 +6,8 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: [Twitter](https://twitter.com/TheRawKnightt)
 
-## Hi there. I'm Kunal 👋
-## नमस्ते (Namaste), I am [acloudguy](https://acloudguy.in/) Rocket launch
+## Hi there. I'm Kunal Shah 👋
+## नमस्ते (Namaste), Lets dive into [acloudguy] world (https://acloudguy.in/) 
 
 <img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acg-new.png" width="320"/>
 
@@ -24,6 +24,7 @@
   - :bulb: [Medium](https://medium.com/@acloudguydotin)
 
 - 📫 Learn more about me on: [acloudguy.in](https://acloudguy.in/)
+- https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 
 ## 🚴 Skills 💻 
 <p>
