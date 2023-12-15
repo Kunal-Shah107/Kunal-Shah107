@@ -64,10 +64,17 @@
 ## Check out my latest articles
 - [AWS Landing Zone setup through AWS Control Tower](https://medium.com/towards-aws/aws-landing-zone-setup-through-aws-control-tower-25c70946d1b8)
 - [Enabling Seamless AWS Multi-Account Connectivity with AWS Transit Gateway](https://medium.com/aws-tip/enabling-seamless-aws-multi-account-connectivity-with-aws-transit-gateway-a331f85a5929)
+- [Deploying a Pac-Man Game on AWS EKS using Terraform. Game On ! (Prometheus + Grafana)](https://medium.com/towards-aws/deploying-a-pac-man-game-on-aws-eks-using-terraform-game-on-f72adbbe6116)
 - [AWS CloudFront for High Availability](https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c)
 - [Deploy Rancher on AWS EKS using Terraform & Helm Charts](https://medium.com/aws-tip/deploy-rancher-on-aws-eks-using-terraform-helm-charts-4141ce9c7a45)
 - [Create a free website to share large files stored on AWS S3](https://medium.com/towards-aws/create-a-free-website-to-share-large-files-stored-on-aws-s3-5dc4bd262a24)
 - [AWS Security Monitoring using CloudWatch Agent](https://medium.com/@acloudguydotin/aws-security-monitoring-using-cloudwatch-agent-f2543a0720e2)
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/acloudguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="acloudguy" height="30" width="40" /></a>
+<a href="https://twitter.com/TheRawKnightt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TheRawKnightt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-shah07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-shah07" height="30" width="40" /></a>
 
 ## :zap: GitHub Statistics📊 
 
