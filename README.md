@@ -63,7 +63,7 @@
 
 ## Check out my latest articles
 [AWS CloudFront for High Availability](https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c)
-<a target="_blank" href="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`[acloudguydotin]`><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/medium/@acloudguydotin/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`[acloudguydotin]`"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/medium/@acloudguydotin/1" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1" alt="Recent Article 1">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2" alt="Recent Article 2">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3" alt="Recent Article 3">
