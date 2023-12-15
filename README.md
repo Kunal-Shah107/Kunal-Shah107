@@ -18,10 +18,6 @@
 - :zap: I love Cloud Technology, DevOps, Kubernetes, Infrastructure, Networking, Security, Programming and books.
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@acloudguydotin)
-- Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/kunal-shah07)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/TheRawKnightt)
-  - :bulb: [Medium](https://medium.com/@acloudguydotin)
 
 - 📫 Learn more about me on: [acloudguy.in](https://acloudguy.in/)
 
@@ -75,6 +71,7 @@
 <a href="https://dev.to/acloudguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="acloudguy" height="30" width="40" /></a>
 <a href="https://twitter.com/TheRawKnightt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TheRawKnightt" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kunal-shah07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-shah07" height="30" width="40" /></a>
+
 
 ## :zap: GitHub Statistics📊 
 
