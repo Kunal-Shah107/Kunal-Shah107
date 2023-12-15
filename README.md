@@ -62,13 +62,12 @@
 </p>
 
 ## Check out my latest articles
-[AWS CloudFront for High Availability](https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c)
-<a target="_blank" href="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`[acloudguydotin]`"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/medium/@acloudguydotin/1" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/2" alt="Recent Article 2">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/3" alt="Recent Article 3">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/4" alt="Recent Article 4">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@acloudguydotin/5" alt="Recent Article 5">
+- [AWS Landing Zone setup through AWS Control Tower](https://medium.com/towards-aws/aws-landing-zone-setup-through-aws-control-tower-25c70946d1b8)
+- [Enabling Seamless AWS Multi-Account Connectivity with AWS Transit Gateway](https://medium.com/aws-tip/enabling-seamless-aws-multi-account-connectivity-with-aws-transit-gateway-a331f85a5929)
+- [AWS CloudFront for High Availability](https://medium.com/@acloudguydotin/aws-cloudfront-for-high-availability-c49ad343939c)
+- [Deploy Rancher on AWS EKS using Terraform & Helm Charts](https://medium.com/aws-tip/deploy-rancher-on-aws-eks-using-terraform-helm-charts-4141ce9c7a45)
+- [Create a free website to share large files stored on AWS S3](https://medium.com/towards-aws/create-a-free-website-to-share-large-files-stored-on-aws-s3-5dc4bd262a24)
+- [AWS Security Monitoring using CloudWatch Agent](https://medium.com/@acloudguydotin/aws-security-monitoring-using-cloudwatch-agent-f2543a0720e2)
 
 ## :zap: GitHub Statistics📊 
 
