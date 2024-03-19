@@ -10,7 +10,7 @@
 ## Hi there. I am [Kunal Shah](https://acloudguy.in/) 👋
 
 <p>
-  <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+Cloud+Solutions+Architect,;AWS+Community-Builder,;DevOps+practitioner,+Consultant;Lets+Build+on+Cloud+Technology,;I+keep+sharing+and+learning.;" /></a>
+  <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+Cloud+Solutions+Architect,;AWS+Community+Builder,;DevOps+practitioner,+Consultant;Lets+Build+on+Cloud+Technology,;I+keep+sharing+and+learning.;" /></a>
 </p>
 
 <!-- <img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acg-new.png" width="320"/> -->
