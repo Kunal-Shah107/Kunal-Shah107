@@ -14,7 +14,7 @@
 </p>
 
 <!-- <img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acg-new.png" width="320"/> -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - :zap: I love Cloud Technology, DevOps, Kubernetes, Infrastructure, Networking, Security, Programming and books.
 - 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
