@@ -9,7 +9,7 @@
 ## नमस्ते (Namaste)
 ## Hi there. I am [Kunal Shah](https://acloudguy.in/) 👋
 
-**<img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acg-new.png" width="320"/>
+<!-- <img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acg-new.png" width="320"/> -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p>
   <a href="https://github.com/cmakkaya?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=f80321&size=28&lines=Welcome+to+my+GitHub+Profile!;I'm+Cloud+Solutions+Architect,;DevOps+practitioner,+Consultant;Lets+Build+on+Cloud+Technology,;I+keep+sharing+and+learning.;" /></a>
