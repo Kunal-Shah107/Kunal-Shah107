@@ -24,7 +24,7 @@
 
 ## 🚴 Skills 💻 
 <p>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.wmaraci.com/nedir/Microsoft-Azure.png" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/05/Logo-Google-Cloud.jpg" alt="AWS" width="70" height="48"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/devops.icon.ico" alt="DevOps" width="100" height="48"/> </a> 
