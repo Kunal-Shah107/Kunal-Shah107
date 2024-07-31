@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - :zap: I love Cloud Technology, DevOps, Kubernetes, Infrastructure, Networking, Security, Programming and books.
-- 🌱 I’m addicted to learning and growing every day. #LifeLongLearner
+- 🌱 I’m constantly evolving, learning and growing every day. #LifeLongLearner
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@acloudguydotin)
 
 - 📫 Learn more about me on: [acloudguy.in](https://acloudguy.in/)
