@@ -16,7 +16,7 @@
 <!-- <img align="right" src="https://github.com/Kunal-Shah107/Kunal-Shah107/blob/main/acg-new.png" width="320"/> -->
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- :zap: I love Cloud Technology, DevOps, Kubernetes, Infrastructure, Networking, Security, Programming and books.
+- :zap: I love Cloud Technology, DevOps, AIOps, MLOps, Kubernetes, Infrastructure, Networking, Security, Programming and books.
 - 🌱 I’m constantly evolving, learning and growing every day. #LifeLongLearner
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@acloudguydotin)
 
